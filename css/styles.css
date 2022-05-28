@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.opensans {
+  font-family: "Open Sans", sans-serif;
+}
+
+.background-green {
+    background-color: #78938A;
+}
+
+.btn-primary {
+    background-color: #1A2B4D;
+    border: #1A2B4D;
+    color: #FFF8DD ;
+}
+
+.bg-dark {
+    background-color: #1A2B4D !important;
+}
+
+.text-light {
+    color: #FFF8DD !important;
+}
+
+.site-tagline {
+    color: #41496F !important
+}
+
+.bg-light {
+    background-color: #FFF8DD !important; ;
+}
+
+.card {
+    background-color: #1A2B4D;
+}
+
+.card-text {
+    color: #FFF8DD;
+    text-align: center;
+    font-size: large;
+}
